@@ -1,5 +1,5 @@
 # ubunturecovery
-how to recover from boot sector ubuntu 
+how to recover from boot sector failure - ubuntu 
 
 in the case that your machine drops to initramfs boot
 
